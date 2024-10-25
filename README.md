@@ -116,14 +116,13 @@ footer {
 
 <!-- Sidebar -->
 <div class="sidebar">
-        <h2>Twig's Utilities</h2>
+        <h2>LINKED</h2>
         <a href="#">Home</a>
         <a href="#">Pr0x1es</a>
-        <a href="#">Pr0x1es if the first is blocked</a>
-        <a href="#">Games Links</a>
-        <a href="#">Movies/TV+Music</a>
-        <a href="#">Multi Purpose Pages</a>
-        <a href="#">Coder Stuff</a>
+        <a href="#">Games</a>
+        <a href="#">Movies</a>
+        <a href="#">unlocked</a>
+        <a href="#">educational stuff</a>
         <a href="#">Credits</a>
         <a href="#">Make a Proxy</a>
     </div>
@@ -170,7 +169,7 @@ footer {
         </div>
 
 <footer>
-            <p>&copy; 2024 Twig's Utilities | All Rights Reserved</p>
+            <p>&copy; 2024 LINKED! | All Rights Reserved</p>
         </footer>
     </div>
 
